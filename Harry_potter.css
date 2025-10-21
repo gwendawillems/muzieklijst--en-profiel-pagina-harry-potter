@@ -1,0 +1,50 @@
+
+body{
+    background-color: #F1EBD9;
+    font-family: Roboto Slab, serif;
+
+
+}
+main{
+    width: 1200px;                        /* totale breedte */
+    box-sizing: border-box;               /* padding + border tellen mee in 1200px */
+    border: 2px solid #740001;
+    background-color: #DCC066;
+    padding: 10px;
+    margin: 10px auto;
+
+
+
+}
+h1{
+    color: #740001;
+}
+.header{
+    width: 1200px;                        /* totale breedte */
+    box-sizing: border-box;               /* padding + border tellen mee in 1200px */
+    border: 2px solid #740001;
+    background-color: #DCC066;
+    padding: 10px;
+    margin: 20px auto;
+}
+.kader{
+    border: 2px solid  #740001;
+    background-color: #DCC066;
+    padding: 10px;
+    margin-top: 5px;
+    box-sizing: border-box;
+
+}
+h2{
+    color: #740001;
+}
+
+h4{
+    color: #740001;
+}
+iframe{
+    display: block;
+    width: 100%;
+    border: none;
+    height: 315px;
+}
